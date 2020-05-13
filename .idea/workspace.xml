@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c99f61c-5b06-4d4e-a796-c8abc3abb6d3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Frontend/Spring-Angular/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/Spring-Angular/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/Spring-Angular/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/Spring-Angular/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/Spring-Angular/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/Spring-Angular/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/Spring-Angular/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/Spring-Angular/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/Spring-Angular/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/Spring-Angular/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/Spring-Angular/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/Spring-Angular/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/Spring-Angular/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/Spring-Angular/src/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Frontend/Spring-Angular" />
+  </component>
+  <component name="ProjectId" id="1bBAvSUjbBbyubft9eOkld59KRG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Backend" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/Frontend/Spring-Angular/node_modules/protractor" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Software Projects\Spring\spring-angular-helloworld\Backend\src\main\java\com\example\springangularhelloworld" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringAngularHelloworldApplication">
+    <configuration name="E2E Tests (Spring-Angular)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/Frontend/Spring-Angular/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="$PROJECT_DIR$/Frontend/Spring-Angular/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="SpringAngularHelloworldApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-angular-helloworld" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springangularhelloworld.SpringAngularHelloworldApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/Frontend/Spring-Angular/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Angular Application" />
+      <item itemvalue="npm.Angular CLI Server" />
+      <item itemvalue="Protractor.E2E Tests (Spring-Angular)" />
+      <item itemvalue="Spring Boot.SpringAngularHelloworldApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c99f61c-5b06-4d4e-a796-c8abc3abb6d3" name="Default Changelist" comment="" />
+      <created>1588095346400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588095346400</updated>
+      <workItem from="1588095365153" duration="3104000" />
+      <workItem from="1588099212488" duration="114000" />
+      <workItem from="1588099451504" duration="272000" />
+      <workItem from="1588147636716" duration="806000" />
+      <workItem from="1588148506668" duration="269000" />
+      <workItem from="1588149144976" duration="496000" />
+      <workItem from="1588149664352" duration="679000" />
+      <workItem from="1588150438435" duration="74000" />
+      <workItem from="1589345189253" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="202" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588149343516">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="202" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1588149343516" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1588095643877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1588095643877" />
+    <state x="477" y="225" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588149304859">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="225" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1588149304859" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1589345265571">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589345265571" />
+    <state width="1493" height="191" key="GridCell.Tab.0.bottom" timestamp="1588150342655">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588150342655" />
+    <state width="1493" height="191" key="GridCell.Tab.0.center" timestamp="1588150342655">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588150342655" />
+    <state width="1493" height="191" key="GridCell.Tab.0.left" timestamp="1588150342655">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588150342655" />
+    <state width="1493" height="191" key="GridCell.Tab.0.right" timestamp="1588150342655">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588150342655" />
+    <state width="1493" height="259" key="GridCell.Tab.1.bottom" timestamp="1588099114424">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="259" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588099114424" />
+    <state width="1493" height="259" key="GridCell.Tab.1.center" timestamp="1588099114424">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="259" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588099114424" />
+    <state width="1493" height="259" key="GridCell.Tab.1.left" timestamp="1588099114424">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="259" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588099114424" />
+    <state width="1493" height="259" key="GridCell.Tab.1.right" timestamp="1588099114424">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="259" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588099114424" />
+    <state x="349" y="155" key="IDE.errors.dialog" timestamp="1588149971625">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="155" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1588149971625" />
+    <state x="209" y="73" key="new project wizard" timestamp="1588149639641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="73" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1588149639641" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spring_angular_helloworld$SpringAngularHelloworldApplication.ic" NAME="SpringAngularHelloworldApplication Coverage Results" MODIFIED="1588147929291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
